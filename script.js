@@ -30,7 +30,7 @@ const randomFont = (e) => {
 
 boxes.forEach(element => {
 
-    setInterval(() => randomFont(element), 1300);
+    setInterval(() => randomFont(element), 800);
     
 });
 
